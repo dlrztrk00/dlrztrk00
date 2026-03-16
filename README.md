@@ -84,19 +84,6 @@ Other tools: Visual Studio, Eclipse, XCode, Oracle SQL Developer, OpenGL, GLUT
 
 ---
 
-## 🚀 Selected Projects
-
-| Project | Description |
-|------|-------------|
-| Football Management System | Java application with team registration and match simulations |
-| Flappy Bird Game | C# game with collision detection and gameplay mechanics |
-| Racing Car Simulator | OpenGL / GLUT based driving simulation |
-| Galaxy Shooter | Arcade shooter built with OpenGL |
-| Holiday Planner Website | Responsive website with HTML, CSS and JavaScript |
-| MusicShop Marketplace | PHP marketplace with authentication and database integration |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
