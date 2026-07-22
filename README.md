@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilara Öztürk</h1>
+<h1 align="center">Hi!, I'm Dilara Öztürk</h1>
 
 <p align="center">
 Information Systems and Technologies Student at Bilkent University  
