@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Dilara Öztürk</h1>
+<h1 align="center">Hi! I'm Dilara Öztürk</h1>
 
 <p align="center">
 Information Systems and Technologies Student at Bilkent University  
@@ -14,19 +14,18 @@ Interested in Software Testing, Web Development and Automation
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm currently studying **Information Systems and Technologies at Bilkent University**.  
 I enjoy working on practical software projects and learning new technologies.
 
-- 🔍 Interested in **software testing and automation**
-- 🌐 Developing **web applications**
-- 🧪 Experience with **API testing and UI automation**
-- 🌍 Erasmus student at **Metropolia University (Finland)**
+- Interested in **software testing and automation**
+- Developing **web applications**
+- Experience with **API testing and UI automation**
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bilkent University**  
 BSc – Information Systems and Technologies  
@@ -39,7 +38,18 @@ Aug 2025 – Dec 2025
 
 ---
 
-## 💼 Experience
+## Experience
+
+**Software Development Intern – Bilişim A.Ş. (ERP Development)**
+
+Ankara | Jan 2026 – May 2026
+
+- Contributed to the development and maintenance of a Java-based ERP system
+- Developed frontend and backend features using **Java, Oracle Database, REST APIs, Maven, and Tomcat**
+- Improved GUI layouts, implemented business validations, and enhanced data integrity
+- Converted SOAP services to REST and performed API testing with **Postman** and **Swagger**
+- Worked with **Git**, DAO architecture, SQL queries, and enterprise software development workflows
+
 
 **Software Testing Intern – TRT**
 
@@ -51,7 +61,7 @@ Ankara | Jun 2025 – Jul 2025
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p>
 
@@ -82,7 +92,7 @@ Other tools: Visual Studio, Eclipse, XCode, Oracle SQL Developer, OpenGL, GLUT
 
 ---
 
-## 🎵 Interests
+## Interests
 
 Programming • Software Testing • Web Applications • Game Development  
 
@@ -91,4 +101,4 @@ Outside of coding I enjoy **music and playing instruments**
 
 ---
 
-📫 **Email:** dilara.ozturk@ug.bilkent.edu.tr
+**Email:** dilara.ozturk@ug.bilkent.edu.tr
