@@ -42,7 +42,7 @@ enjoy the visual, interactive side of building as much as the logic underneath.
 **Bilkent University**  
 BSc – Information Systems and Technologies  
 2022 – 2027  
-GPA: **3.78 / 4.00**
+GPA: **3.80 / 4.00**
 
 **Metropolia University of Applied Sciences – Finland**  
 Erasmus Exchange Program  
