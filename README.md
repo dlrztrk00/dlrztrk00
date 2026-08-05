@@ -6,13 +6,6 @@
   Software developer exploring where code meets music
 </p>
 
-<p align="center">
- <a href="mailto:dilara.ozturk@ug.bilkent.edu.tr">
-  <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
- 
-</p>
-
 ---
 
 ## About Me
