@@ -1,0 +1,36 @@
+<svg width="880" height="300" viewBox="0 0 880 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="bg2" cx="18%" cy="0%" r="75%"><stop offset="0%" stop-color="#10150f"/><stop offset="60%" stop-color="#0a0d0b"/></radialGradient>
+<clipPath id="wc2"><rect x="0" y="0" width="880" height="300" rx="14"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="879" height="299" rx="14" fill="url(#bg2)" stroke="#26301f"/>
+<g clip-path="url(#wc2)">
+<rect x="0" y="0" width="880" height="34" fill="#10150f"/>
+<line x1="0" y1="34" x2="880" y2="34" stroke="#26301f"/>
+<circle cx="24" cy="17" r="6" fill="#e0684c" opacity=".9"/>
+<circle cx="44" cy="17" r="6" fill="#e8b64c" opacity=".9"/>
+<circle cx="64" cy="17" r="6" fill="#7fe08a" opacity=".9"/>
+<text x="440.0" y="21" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="12" fill="#6f8464">dilara@bilkent: ~/skills.sh --bars</text>
+<text x="28" y="73" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="13.5" fill="#d9e6cf">Java / Backend (ERP, DAO, REST)</text>
+<rect x="340" y="62.0" width="460" height="12" rx="3" fill="#26301f"/>
+<rect x="340" y="62.0" width="0" height="12" rx="3" fill="#7fe08a" opacity=".85"><animate attributeName="width" from="0" to="358.8" dur=".9s" begin="0.00s" fill="freeze"/></rect>
+<text x="814" y="73" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="12.5" fill="#6f8464" opacity="0">78%<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.75s" fill="freeze"/></text>
+<text x="28" y="115" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="13.5" fill="#d9e6cf">JavaScript · HTML · CSS</text>
+<rect x="340" y="104.0" width="460" height="12" rx="3" fill="#26301f"/>
+<rect x="340" y="104.0" width="0" height="12" rx="3" fill="#7fe08a" opacity=".85"><animate attributeName="width" from="0" to="312.8" dur=".9s" begin="0.15s" fill="freeze"/></rect>
+<text x="814" y="115" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="12.5" fill="#6f8464" opacity="0">68%<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.90s" fill="freeze"/></text>
+<text x="28" y="157" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="13.5" fill="#d9e6cf">QA &amp; Test Automation</text>
+<rect x="340" y="146.0" width="460" height="12" rx="3" fill="#26301f"/>
+<rect x="340" y="146.0" width="0" height="12" rx="3" fill="#7fe08a" opacity=".85"><animate attributeName="width" from="0" to="345.0" dur=".9s" begin="0.30s" fill="freeze"/></rect>
+<text x="814" y="157" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="12.5" fill="#6f8464" opacity="0">75%<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.05s" fill="freeze"/></text>
+<text x="28" y="199" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="13.5" fill="#d9e6cf">Audio Signal Processing (learning)</text>
+<rect x="340" y="188.0" width="460" height="12" rx="3" fill="#26301f"/>
+<rect x="340" y="188.0" width="0" height="12" rx="3" fill="#7fe08a" opacity=".85"><animate attributeName="width" from="0" to="184.0" dur=".9s" begin="0.45s" fill="freeze"/></rect>
+<text x="814" y="199" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="12.5" fill="#6f8464" opacity="0">40%<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.20s" fill="freeze"/></text>
+<text x="28" y="241" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="13.5" fill="#d9e6cf">OpenGL / Graphics</text>
+<rect x="340" y="230.0" width="460" height="12" rx="3" fill="#26301f"/>
+<rect x="340" y="230.0" width="0" height="12" rx="3" fill="#7fe08a" opacity=".85"><animate attributeName="width" from="0" to="253.0" dur=".9s" begin="0.60s" fill="freeze"/></rect>
+<text x="814" y="241" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,'Courier New',monospace" font-size="12.5" fill="#6f8464" opacity="0">55%<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.35s" fill="freeze"/></text>
+<rect x="0" y="34" width="880" height="266" fill="url(#scan2)" opacity=".05"/>
+<pattern id="scan2" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#d9e6cf"/></pattern>
+</g></svg>
