@@ -1,128 +1,133 @@
-<h1 align="center">Hi! I'm Dilara Öztürk</h1>
+<div align="center">
+
+<img src="assets/banner.svg" width="100%" alt="terminal banner" />
+
+<sub><i>build things at the point where software meets music — and let people see them.</i></sub>
+
+</div>
+
+<br>
+
+## `$ cat about.md`
+
+Final-year **Information Systems and Technologies** student at **Bilkent University**,
+spending the summer building in the gap between code and sound. I play guitar,
+violin, ukulele and piano, learn most things by ear, and I am slowly teaching myself
+how to point that same ear at signal processing and ML.
+
+Most of what is below was built to fix something that was annoying me — an ERP form,
+a slow test suite, a cover video I could not get to sound right — not to fill a
+portfolio.
+
+```
+> os          Bilkent University · IST · 2022 – 2027
+> exchange    Metropolia UAS, Finland · Erasmus, Aug – Dec 2025
+> gpa         3.80 / 4.00
+> based_in    Ankara, Türkiye
+```
+
+<br>
+
+## `$ ls -la ./interests`
+
+```
+drwxr-xr-x   music/              guitar · violin · ukulele · piano — learned by ear,
+                                  which means my covers end up arranged, not copied
+drwxr-xr-x   music+tech/         sound as data — audio signal processing & ML for
+                                  music, taught mostly outside a syllabus
+drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT) — the
+                                  interactive, visual side of building
+```
+
+<br>
+
+## `$ git log --oneline --experience`
+
+**`Software Development Intern`** — Bilişim A.Ş. (ERP Development) · Ankara · Jan – May 2026
+```
++ built frontend & backend features on a Java-based ERP system
++ stack: Java, Oracle DB, REST APIs, Maven, Tomcat
++ improved GUI layouts, added business validations, tightened data integrity
++ migrated SOAP services to REST, tested with Postman & Swagger
++ worked DAO architecture, SQL, Git, enterprise dev workflows
+```
+
+**`Software Testing Intern`** — TRT · Ankara · Jun – Jul 2025
+```
++ API & load testing with Postman, Insomnia, k6
++ end-to-end / UI automation with Cypress and Selenium (Java)
++ first real exposure to QA as a discipline, not just a step before shipping
+```
+
+<br>
+
+## `$ cat stack.json`
+
+**languages**
+<p>
+  <img src="https://img.shields.io/badge/C-10150f?style=flat-square&logo=c&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Java-10150f?style=flat-square&logo=openjdk&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/JavaScript-10150f?style=flat-square&logo=javascript&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/HTML5-10150f?style=flat-square&logo=html5&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/CSS3-10150f?style=flat-square&logo=css3&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/PHP-10150f?style=flat-square&logo=php&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/MySQL-10150f?style=flat-square&logo=mysql&logoColor=7fe08a">
+</p>
+
+**music & audio**
+<p>
+  <img src="https://img.shields.io/badge/GarageBand-10150f?style=flat-square&logo=apple&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Audacity-10150f?style=flat-square&logo=audacity&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Behringer_UMC202HD-10150f?style=flat-square&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/iMovie-10150f?style=flat-square&logo=apple&logoColor=7fe08a">
+</p>
+
+**testing**
+<p>
+  <img src="https://img.shields.io/badge/Postman-10150f?style=flat-square&logo=postman&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Cypress-10150f?style=flat-square&logo=cypress&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Selenium-10150f?style=flat-square&logo=selenium&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/k6-10150f?style=flat-square&logo=k6&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Insomnia-10150f?style=flat-square&logo=insomnia&logoColor=7fe08a">
+</p>
+
+**tools & environments**
+<p>
+  <img src="https://img.shields.io/badge/Git-10150f?style=flat-square&logo=git&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/VS_Code-10150f?style=flat-square&logo=visualstudiocode&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Linux-10150f?style=flat-square&logo=linux&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Visual_Studio-10150f?style=flat-square&logo=visualstudio&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Eclipse-10150f?style=flat-square&logo=eclipseide&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Xcode-10150f?style=flat-square&logo=xcode&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-10150f?style=flat-square&logo=oracle&logoColor=7fe08a">
+</p>
+
+**graphics**
+<p>
+  <img src="https://img.shields.io/badge/OpenGL-10150f?style=flat-square&logo=opengl&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/GLUT-10150f?style=flat-square&logoColor=7fe08a">
+</p>
+
+<br>
+
+## `$ ./stats.sh --render`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dlrztrk00&show_icons=true&hide_border=true&bg_color=0a0d0b&title_color=7fe08a&text_color=d9e6cf&icon_color=7fe08a&ring_color=26301f" width="49%" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrztrk00&layout=compact&hide_border=true&bg_color=0a0d0b&title_color=7fe08a&text_color=d9e6cf" width="35%" alt="top langs"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dlrztrk00&background=0A0D0B&border=26301F&stroke=26301F&ring=7FE08A&fire=E8B64C&currStreakLabel=7FE08A&sideLabels=D9E6CF&currStreakNum=D9E6CF&sideNums=D9E6CF&dates=6F8464&hide_border=false" width="65%" alt="streak stats"/>
+</div>
+
+<br>
+
+## `$ mail --to dilara`
 
 <p align="center">
-  Information Systems and Technologies Student at Bilkent University
-  <br>
-  Software developer exploring where code meets music
+  <img src="https://img.shields.io/badge/Bilkent-dilara.ozturk%40ug.bilkent.edu.tr-10150f?style=flat-square&logo=maildotru&logoColor=7fe08a">
+  <img src="https://img.shields.io/badge/Gmail-dlrztrk6167%40gmail.com-10150f?style=flat-square&logo=gmail&logoColor=7fe08a">
 </p>
 
----
-
-## About Me
-
-I'm currently studying **Information Systems and Technologies at Bilkent University**.  
-I enjoy working on practical software projects and learning new technologies.
-
-## Interests
-
-I'm mostly curious about where **software meets music and creativity**
-
-**Music** : I play guitar, violin, ukulele and piano, and I record and publish
-cover videos. I mostly learn songs **by ear**, so I end up arranging my own
-versions.
-
-**Music + technology** : Exploring how sound works as *data*, and how code can
-analyse, transform and create it. Currently teaching myself audio signal
-processing and machine learning for music.
-
-**Creative coding** : Small games and graphics programming (OpenGL / GLUT). I
-enjoy the visual, interactive side of building as much as the logic underneath.
-
----
-
-## Education
-
-**Bilkent University**  
-BSc – Information Systems and Technologies  
-2022 – 2027  
-GPA: **3.80 / 4.00**
-
-**Metropolia University of Applied Sciences – Finland**  
-Erasmus Exchange Program  
-Aug 2025 – Dec 2025
-
----
-
-## Experience
-
-**Software Development Intern – Bilişim A.Ş. (ERP Development)**
-
-Ankara | Jan 2026 – May 2026
-
-- Contributed to the development and maintenance of a Java-based ERP system
-- Developed frontend and backend features using **Java, Oracle Database, REST APIs, Maven, and Tomcat**
-- Improved GUI layouts, implemented business validations, and enhanced data integrity
-- Converted SOAP services to REST and performed API testing with **Postman** and **Swagger**
-- Worked with **Git**, DAO architecture, SQL queries, and enterprise software development workflows
-
-
-**Software Testing Intern – TRT**
-
-Ankara | Jun 2025 – Jul 2025
-
-- API and load testing with **Postman, Insomnia and k6**
-- End-to-end and UI automation testing using **Cypress and Selenium (Java)**
-- Hands-on experience with testing workflows and quality assurance
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-</p>
-
-### Music & Audio
-
-<p>
-  <img src="https://img.shields.io/badge/GarageBand-F86734?style=flat-square&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Audacity-1E2A44?style=flat-square&logo=audacity&logoColor=white">
-  <img src="https://img.shields.io/badge/Behringer_UMC202HD-2B2B2B?style=flat-square">
-  <img src="https://img.shields.io/badge/iMovie-A22BFF?style=flat-square&logo=apple&logoColor=white">
-</p>
-
-### Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white">
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white">
-</p>
-
-### Tools & Environments
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white">
-</p>
-
-### Graphics
-
-<p>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white">
-  <img src="https://img.shields.io/badge/GLUT-2B2B2B?style=flat-square">
-</p>
-
----
-
-  **Bilkent Mail:** dilara.ozturk@ug.bilkent.edu.tr
-  <br>
-  **Gmail:** dlrztrk6167@gmail.com
-
-
-
+<div align="center">
+<sub>$ echo "publish over polish" ▋</sub>
+</div>
