@@ -2,8 +2,6 @@
 
 <img src="assets/banner.svg" width="100%" alt="terminal banner" />
 
-<sub><i>build things at the point where software meets music — and let people see them.</i></sub>
-
 </div>
 
 <br>
@@ -12,7 +10,12 @@
 
 Final-year **Information Systems and Technologies** student at **Bilkent University**,
 spending the summer building in the gap between code and sound. I play guitar,
-violin, ukulele and piano, learn most things by ear.
+violin, ukulele and piano, learn most things by ear, and I am slowly teaching myself
+how to point that same ear at signal processing and ML.
+
+Most of what is below was built to fix something that was annoying me — an ERP form,
+a slow test suite, a cover video I could not get to sound right — not to fill a
+portfolio.
 
 ```
 > university   Bilkent University
@@ -130,5 +133,5 @@ drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT) — the
 </p>
 
 <div align="center">
-<sub>$ echo "publish over polish" ▋</sub>
+<sub>$ ▋</sub>
 </div>
