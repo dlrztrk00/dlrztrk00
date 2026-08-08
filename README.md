@@ -55,7 +55,6 @@ drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT) — the
 ```
 + API & load testing with Postman, Insomnia, k6
 + end-to-end / UI automation with Cypress and Selenium (Java)
-+ first real exposure to QA as a discipline, not just a step before shipping
 ```
 
 <br>
