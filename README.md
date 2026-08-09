@@ -122,19 +122,6 @@ drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT) — the
 <img src="assets/focus.svg" width="100%" alt="currently building panel" />
 </div>
 
-<br>
-
-## `$ ./contributions.sh --animate`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dlrztrk00/dlrztrk00/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dlrztrk00/dlrztrk00/output/github-snake.svg" />
-  <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/dlrztrk00/dlrztrk00/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
 
 <br>
 
