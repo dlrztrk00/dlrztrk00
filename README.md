@@ -124,6 +124,28 @@ drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT) — the
 
 <br>
 
+## `$ ./contributions.sh --animate`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dlrztrk00/dlrztrk00/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dlrztrk00/dlrztrk00/output/github-snake.svg" />
+  <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/dlrztrk00/dlrztrk00/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+## `$ ./activity.sh --graph`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dlrztrk00&bg_color=0a0d0b&color=7fe08a&line=7fe08a&point=e8b64c&area_color=7fe08a&title_color=7fe08a&area=true&hide_border=true&custom_title=commits%20over%20time" width="100%" alt="contribution activity graph" />
+</div>
+
+<br>
+
 ## `$ mail --to dilara`
 
 <p align="center">

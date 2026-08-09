@@ -1,0 +1,39 @@
+name: generate contribution snake
+
+on:
+  # regenerate a few times a day so the graph stays current
+  schedule:
+    - cron: "0 */12 * * *"
+  # let me run it by hand from the Actions tab
+  workflow_dispatch:
+  # and run it whenever I push, so it's never stale after an edit
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate github-snake.svg
+        uses: Platane/snk@v3
+        id: snake-gen
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # two files: a plain one, and a dark one in my terminal palette
+          # (amber snake eating phosphor-green contribution dots)
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23e8b64c&color_dots=%2310150f,%231e3a1f,%232f6b34,%2357b45a,%237fe08a
+
+      - name: push to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
