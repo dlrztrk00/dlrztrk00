@@ -10,8 +10,7 @@
 
 Final-year **Information Systems and Technologies** student at **Bilkent University**,
 spending the summer building in the gap between code and sound. I play guitar,
-violin, ukulele and piano, learn most things by ear, and I am slowly teaching myself
-how to point that same ear at signal processing and ML.
+violin, ukulele and piano, learn most things by ear.
 
 Most of what is below was built to fix something that was annoying me — an ERP form,
 a slow test suite, a cover video I could not get to sound right — not to fill a
