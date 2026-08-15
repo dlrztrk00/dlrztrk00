@@ -25,12 +25,10 @@ violin, ukulele and piano, learn most things by ear.
 ## `$ ls -la ./interests`
 
 ```
-drwxr-xr-x   music/              guitar · violin · ukulele · piano — learned by ear,
-                                  which means my covers end up arranged, not copied
+drwxr-xr-x   music/              guitar · violin · ukulele · piano 
 drwxr-xr-x   music+tech/         sound as data — audio signal processing & ML for
-                                  music, taught mostly outside a syllabus
-drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT) — the
-                                  interactive, visual side of building
+                                  music
+drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT)
 ```
 
 <br>
