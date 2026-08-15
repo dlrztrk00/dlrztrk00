@@ -16,7 +16,7 @@ violin, ukulele and piano, learn most things by ear.
 > university   Bilkent University
 > department   Information Systems and Technologies
 > exchange     Metropolia UAS, Finland · Erasmus, Aug – Dec 2025
-> gpa          3.80 / 4.00
+> cgpa          3.80 / 4.00
 > based_in     Ankara, Türkiye
 ```
 
