@@ -21,7 +21,27 @@ violin, ukulele and piano, learn most things by ear.
 ```
 
 <br>
-https://dlrztrk00.github.io/creative-journal/
+
+## `$ open ./creative-journal`
+
+A digital notebook — projects, sketchbook and guitar covers bound into one
+publication. Six pages, no database, nothing fetched at render time.
+
+```
+> live      dlrztrk00.github.io/creative-journal
+> source    github.com/dlrztrk00/creative-journal
+> stack     Next.js 16 · TypeScript · Tailwind · static export
+> pages     cover · resume · projects · sketchbook · music · contact
+```
+
+<p>
+  <a href="https://dlrztrk00.github.io/creative-journal/">
+    <img src="https://img.shields.io/badge/read_the_journal-live_%E2%86%97-10150f?style=for-the-badge&labelColor=26301f" alt="Open the Creative Journal">
+  </a>
+  <a href="https://github.com/dlrztrk00/creative-journal">
+    <img src="https://img.shields.io/badge/source-github-10150f?style=for-the-badge&logo=github&logoColor=7fe08a&labelColor=26301f" alt="Source on GitHub">
+  </a>
+</p>
 
 <br>
 
