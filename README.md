@@ -4,6 +4,20 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://dlrztrk00.github.io/creative-journal/">
+  <img src="https://img.shields.io/badge/%24%20open-my%20website%20%E2%86%92-7fe08a?style=for-the-badge&labelColor=10150f&color=7fe08a" height="48" alt="open my website" />
+</a>
+
+<br>
+
+**[dlrztrk00.github.io/creative-journal](https://dlrztrk00.github.io/creative-journal/)**
+<br>
+<sub>software, sketches and music, kept in one notebook</sub>
+
+</div>
+
 <br>
 
 ## `$ cat about.md`
@@ -141,6 +155,7 @@ drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT)
 ## `$ mail --to dilara`
 
 <p align="center">
+  <a href="https://dlrztrk00.github.io/creative-journal/"><img src="https://img.shields.io/badge/Website-dlrztrk00.github.io-10150f?style=for-the-badge&logo=githubpages&logoColor=7fe08a"></a>
   <img src="https://img.shields.io/badge/Bilkent-dilara.ozturk%40ug.bilkent.edu.tr-10150f?style=for-the-badge&logoColor=7fe08a">
   <img src="https://img.shields.io/badge/Gmail-dlrztrk6167%40gmail.com-10150f?style=for-the-badge&logo=gmail&logoColor=7fe08a">
 </p>
