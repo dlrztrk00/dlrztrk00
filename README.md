@@ -12,8 +12,6 @@
 
 <br>
 
-**[dlrztrk00.github.io/creative-journal](https://dlrztrk00.github.io/creative-journal/)**
-<br>
 <sub>software, sketches and music, kept in one notebook</sub>
 
 </div>
@@ -46,12 +44,6 @@ publication. Six pages, no database, nothing fetched at render time.
 > stack     Next.js 16 · TypeScript · Tailwind · static export
 > pages     cover · resume · projects · sketchbook · music · contact
 ```
-
-<p>
-  <a href="https://dlrztrk00.github.io/creative-journal/">
-    <img src="https://img.shields.io/badge/read_the_journal_%E2%86%97-10150f?style=for-the-badge" alt="Open the Creative Journal">
-  </a>
-</p>
 
 <br>
 
