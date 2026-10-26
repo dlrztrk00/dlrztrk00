@@ -155,7 +155,6 @@ drwxr-xr-x   creative-coding/    small games & graphics (OpenGL / GLUT)
 ## `$ mail --to dilara`
 
 <p align="center">
-  <a href="https://dlrztrk00.github.io/creative-journal/"><img src="https://img.shields.io/badge/Website-dlrztrk00.github.io-10150f?style=for-the-badge&logo=githubpages&logoColor=7fe08a"></a>
   <img src="https://img.shields.io/badge/Bilkent-dilara.ozturk%40ug.bilkent.edu.tr-10150f?style=for-the-badge&logoColor=7fe08a">
   <img src="https://img.shields.io/badge/Gmail-dlrztrk6167%40gmail.com-10150f?style=for-the-badge&logo=gmail&logoColor=7fe08a">
 </p>
